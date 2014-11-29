@@ -1,0 +1,2 @@
+msgid "Ubuntu Desktop"
+msgstr "Dream is not what you see in sleep...Its something that doesnt let you sleep."

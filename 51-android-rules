@@ -1,0 +1,1 @@
+SUBSYSTEM=="usb", ATTR{idVendor}=="04e8", ATTR{idProduct}=="685e",MODE="0600",OWNER="diode"
